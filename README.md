@@ -1,4 +1,4 @@
-# nqdev-detect-phone &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAfterShip%2Fphone.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAfterShip%2Fphone?ref=badge_shield)
+# nqdev-detect-phone &middot; [![PRs Welcome](https://img.shields.io/badge/NQDEV-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 ## What is phone?
 `phone` is used to normalize mobile phone numbers into E.164 format.
