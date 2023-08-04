@@ -326,9 +326,14 @@ For creating new pull requests regarding add or modify phone number formats, ple
 
 **The library supports mobile phone number format only.** We are unable to provide landline phone number support as we do not have landline phone number format data, hence we do not accept PRs for landline phone numbers.
 
+## Contributing
+
+Contributions are always welcome!
+
+See [CONTRIBUTING.md](https://github.com/nqdev-group/nqdev-detect-phone/blob/main/CONTRIBUTING.MD) for ways to get started.
+
+Please adhere to this project's [CODE_OF_CONDUCT](https://github.com/nqdev-group/nqdev-detect-phone/blob/main/CODE_OF_CONDUCT.md).
+
 ## License
 
-This project is licensed under the [MIT license](https://github.com/AfterShip/phone/blob/master/LICENSE).
-
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAfterShip%2Fphone.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAfterShip%2Fphone?ref=badge_large)
+This project is licensed under the [MIT license](https://github.com/nqdev-group/nqdev-detect-phone/blob/main/LICENSE).
