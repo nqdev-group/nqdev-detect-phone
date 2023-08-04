@@ -337,3 +337,5 @@ Please adhere to this project's [CODE_OF_CONDUCT](https://github.com/nqdev-group
 ## License
 
 This project is licensed under the [MIT license](https://github.com/nqdev-group/nqdev-detect-phone/blob/main/LICENSE).
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnqdev-group%2Fnqdev-detect-phone.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnqdev-group%2Fnqdev-detect-phone?ref=badge_large)
