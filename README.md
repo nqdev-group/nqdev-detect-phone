@@ -1,0 +1,1 @@
+# nqdev-detect-phone
