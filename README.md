@@ -1,4 +1,4 @@
-# nqdev-detect-phone &middot; [![PRs Welcome](https://img.shields.io/badge/NQDEV-welcome-brightgreen.svg)](http://makeapullrequest.com)
+# nqdev-detect-phone &middot; [![NQDEV Welcome](https://img.shields.io/badge/NQDEV-welcome-brightgreen.svg)](http://makeapullrequest.com) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnqdev-group%2Fnqdev-detect-phone.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnqdev-group%2Fnqdev-detect-phone?ref=badge_shield)
 
 ## What is phone?
 `phone` is used to normalize mobile phone numbers into E.164 format.
@@ -337,3 +337,5 @@ Please adhere to this project's [CODE_OF_CONDUCT](https://github.com/nqdev-group
 ## License
 
 This project is licensed under the [MIT license](https://github.com/nqdev-group/nqdev-detect-phone/blob/main/LICENSE).
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnqdev-group%2Fnqdev-detect-phone.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnqdev-group%2Fnqdev-detect-phone?ref=badge_large)
